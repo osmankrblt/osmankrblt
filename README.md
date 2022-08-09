@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 ### Communication
 
-<a href="https://www.linkedin.com/in/h.osmankarabulut/ "><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/hosmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/h.osmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt=" Osman Karabulut | Instagram" width="21px"/></a>
 
