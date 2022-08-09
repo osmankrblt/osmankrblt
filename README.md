@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-<a href=”https://www.linkedin.com/in/h.osmankarabulut/"><img align=”left” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=”Osman Karabulut | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/h.osmankarabulut"><img align=”left” src=” https://www.svgrepo.com/show/922/linkedin.svg " alt=” Osman Karabulut | LinkedIn” width=”21px”/></a>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
 
