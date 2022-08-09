@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ### Communication
 
-<a href="https://www.linkedin.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/922/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt=" Osman Karabulut | Instagram" width="21px"/></a>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
 
