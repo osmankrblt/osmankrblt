@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### Communication
 
-<a href="https://www.linkedin.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt=" Osman Karabulut | Instagram" width="21px"/></a>
 
 ### Github stats
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
+
+### Communication
+
+<a href="https://www.linkedin.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/in/h.osmankarabulut "><img align="left" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt=" Osman Karabulut | Instagram" width="21px"/></a>
 
