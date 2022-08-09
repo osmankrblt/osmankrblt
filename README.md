@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact)](https://github.com/osmankrblt)
+
 ### Communication
 
 <a href="https://www.linkedin.com/in/hosmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="30px"/></a>
