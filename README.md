@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankrblt&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankrblt&theme=light&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact&theme=dark)](https://github.com/osmankrblt)
 
