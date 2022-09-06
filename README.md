@@ -28,14 +28,13 @@ Here are some ideas to get you started:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 
-<details>
-<summary> 
-⚡ Github Stats
-</summary> 
+
+### ⚡ Github Stats
+
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact)](https://github.com/osmankrblt)
-</details>
+
 ### Communication
 
 <a href="https://www.linkedin.com/in/hosmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="30px"/></a>
