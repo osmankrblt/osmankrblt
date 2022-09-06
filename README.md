@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact&theme=dark)](https://github.com/osmankrblt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&theme=tokyonight)
 ### Communication
 
 <a href="https://www.linkedin.com/in/hosmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="30px"/></a>
