@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <details>
 <summary> 
 ⚡ Github Stats
-<summary> 
+</summary> 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=osmankrblt&show_icons=true&theme=gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact)](https://github.com/osmankrblt)
