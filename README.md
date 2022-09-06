@@ -1,5 +1,5 @@
 
- ### Hi there 👋 I'm Osman Karabulut  ![](https://komarev.com/ghpvc/?username=Devashi-Choudhary&color=blueviolet)
+ ### Hi there 👋 I'm Osman Karabulut  ![](https://komarev.com/ghpvc/?username=osmankrblt&color=blueviolet)
 
 
 <!--
