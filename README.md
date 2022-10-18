@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 
 
 
-### ⚡ Github Stats
 
+
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=osmankrblt&hide_border=true&theme=redical)
+### ⚡ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankrblt&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankrblt&layout=compact&theme=dark)](https://github.com/osmankrblt)
