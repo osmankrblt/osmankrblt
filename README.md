@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=osmankrblt&hide_border=true&theme=redical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osmankrblt&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ⚡ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankrblt&theme=dark&show_icons=true)
 
