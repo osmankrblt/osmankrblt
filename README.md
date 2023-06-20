@@ -8,8 +8,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Image Processing and Artificial Intelligence 
-- 🌱 I’m currently learning Flutter , Flask and Artificial Intelligence 
+
 <!--
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,docker&perline=3)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,dart&perline=3)](https://skillicons.dev)
+
 
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osmankrblt&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
