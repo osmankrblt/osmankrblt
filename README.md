@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osmankrblt&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osmankrblt&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ⚡ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankrblt&theme=dark&show_icons=true)
 
@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 ### Communication
 
 <a href="https://www.linkedin.com/in/hosmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt=" Osman Karabulut | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/h.osmankarabulut/"><img align="left" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt=" Osman Karabulut | Instagram" width="30px"/></a>
+
 
