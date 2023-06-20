@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,docker&perline=3)](https://skillicons.dev)
 
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=osmankrblt&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
