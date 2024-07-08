@@ -28,6 +28,11 @@
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
+### Projects
+
+- [Fungus Scan App](https://play.google.com/store/apps/details?id=com.hosma.fungus_scan&hl=en): An Android application developed for fungus detection in plants.
+
+
 ### 📈 GitHub Activity Graph:
 [![Osman Karabulut's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osmankrblt&theme=merko)](https://github.com/osmankrblt)
 
